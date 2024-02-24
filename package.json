@@ -1,6 +1,6 @@
 {
     "name": "sonnguyen-log",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "easy rotation logging with winston",
     "main": "index.js",
     "scripts": {
