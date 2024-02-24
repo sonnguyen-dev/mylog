@@ -1,0 +1,22 @@
+{
+    "name": "sonnguyen-log",
+    "version": "1.0.0",
+    "description": "easy rotation logging with winston",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["winston", "daily rotation log", "color logging", "file logging"],
+    "author": "ngbaoson@gmail.com",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sonnguyen-dev/mylog.git"
+    },
+    "dependencies": {
+      "colors": "^1.4.0",
+      "winston": "^3.8.1",
+      "winston-daily-rotate-file": "^4.7.1"
+    }
+  }
+  
