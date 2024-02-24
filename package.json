@@ -11,7 +11,7 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git@github.com:sonnguyen-dev/mylog.git"
+        "url": "git+https://github.com/sonnguyen-dev/mylog.git"
     },
     "dependencies": {
       "colors": "^1.4.0",
