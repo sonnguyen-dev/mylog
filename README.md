@@ -1,0 +1,1 @@
+Easy rotation logging with winston
